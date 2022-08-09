@@ -1,2 +1,2 @@
 # zooz
-Don't use this.
+Don't use this firmware.
